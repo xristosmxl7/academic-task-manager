@@ -57,7 +57,7 @@ Administrative
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/xristosmxl7/academic-task-manager.git>
 cd AcademicTaskManager
 ```
 
