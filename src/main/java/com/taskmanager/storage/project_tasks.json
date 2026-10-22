@@ -1,0 +1,19 @@
+[
+  {
+    "course": {
+      "name": "Object-Oriented Programming"
+    },
+    "id": "fc689",
+    "title": "Java Task Manager",
+    "description": "",
+    "creationDate": "2026-10-22",
+    "deadline": "2026-12-16",
+    "estimatedHours": 50,
+    "priority": "MEDIUM",
+    "status": "PENDING",
+    "reminder": {
+      "reminderType": "ONE_WEEK",
+      "triggered": false
+    }
+  }
+]

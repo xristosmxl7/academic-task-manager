@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="10" style="-fx-padding: 20;" prefWidth="400"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.taskmanager.ui.CourseManagementController">
+
+    <Label text="Manage Courses" style="-fx-font-size: 18;"/>
+
+    <ListView fx:id="courseListView" prefHeight="250"/>
+
+    <HBox spacing="10">
+        <TextField fx:id="newCourseField" promptText="New course name..." HBox.hgrow="ALWAYS"/>
+        <Button text="Add" onAction="#handleAddCourse"/>
+    </HBox>
+
+    <HBox spacing="10" alignment="CENTER_RIGHT">
+        <Button text="Delete selected" onAction="#handleDeleteCourse"/>
+        <Button text="Close" onAction="#handleClose"/>
+    </HBox>
+
+</VBox>

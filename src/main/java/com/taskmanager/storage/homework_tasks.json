@@ -1,0 +1,20 @@
+[
+  {
+    "referenceChapter": "Process Management",
+    "course": {
+      "name": "Operating Systems"
+    },
+    "id": "c25af",
+    "title": "Operating Systems Assignment",
+    "description": "",
+    "creationDate": "2026-10-22",
+    "deadline": "2026-10-28",
+    "estimatedHours": 5,
+    "priority": "HIGH",
+    "status": "EXPIRES_SOON",
+    "reminder": {
+      "reminderType": "TWO_DAYS",
+      "triggered": false
+    }
+  }
+]

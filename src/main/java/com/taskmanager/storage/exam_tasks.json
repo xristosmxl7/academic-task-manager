@@ -1,0 +1,20 @@
+[
+  {
+    "examDate": "2026-10-28",
+    "course": {
+      "name": "Operating Systems"
+    },
+    "id": "9b952",
+    "title": "Operating Systems Exam",
+    "description": "",
+    "creationDate": "2026-10-22",
+    "deadline": "2026-10-27",
+    "estimatedHours": 10,
+    "priority": "HIGH",
+    "status": "EXPIRES_SOON",
+    "reminder": {
+      "reminderType": "TWO_DAYS",
+      "triggered": false
+    }
+  }
+]

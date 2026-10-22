@@ -1,0 +1,24 @@
+[
+  {
+    "contactPerson": "Prof. Smith",
+    "appointmentTime": {
+      "hour": 11,
+      "minute": 30,
+      "second": 0,
+      "nano": 0
+    },
+    "location": "Professor\u0027s Office",
+    "id": "ae1f7",
+    "title": "Meeting with Professor",
+    "description": "",
+    "creationDate": "2026-10-22",
+    "deadline": "2026-10-25",
+    "estimatedHours": 1,
+    "priority": "LOW",
+    "status": "EXPIRES_SOON",
+    "reminder": {
+      "reminderType": "ONE_DAY",
+      "triggered": false
+    }
+  }
+]
